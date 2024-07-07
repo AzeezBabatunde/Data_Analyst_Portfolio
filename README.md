@@ -11,7 +11,16 @@ Youtube is one of the best streaming platform where artist and song writers uplo
 The goal of this analysis is to utilize Power BI to create insightful visualizations and reports that provide a deeper understanding of YouTube songs' performance, popularity, and user engagement.
 In this analysis, I aim to uncover trends, preferences, and patterns in the data to aid content creators and stakeholders in optimizing their YouTube song content.
 
-[Dashboard]()
+### Data Source
+This link below contains the raw data that was worked with
+
+[songs.xlsx](https://github.com/user-attachments/files/16119813/songs.xlsx)
+
+### Tools Used
+
+Power Bi Query was used to preprocess and clean the dataset.
+
+Power Bi Desktop was used to explore, analyze and visualize the dataset to provide necesary insights with results displayed in the dashboard below.
 
 ###                                     YouTube Song Analysis Dashboard
 ![Youtube Song Analysis Dashboard by Azeez Babatunde Abiodun](https://github.com/AzeezBabatunde/Data_Analyst_Portfolio/assets/170113526/1175cc57-8acd-4710-9a89-80cd8032401d)
