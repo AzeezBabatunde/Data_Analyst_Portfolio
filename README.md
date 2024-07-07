@@ -1,7 +1,15 @@
 # Data_Analyst_Portfolio
 
-## Power Bi
 This repository is dedicated towards showcasing my data science and analytics skills using the basic analyzing tools such as Excel, SQL, Python and Power Bi
+
+## Power Bi Projects
+### 1. Youtube Song Analysis
+
+#### Project Overview
+
+Youtube is one of the best streaming platform where artist and song writers upload their songs for people to access and appreciate their talents while they gain popularity and money from channel monetization.
+The goal of this analysis is to utilize Power BI to create insightful visualizations and reports that provide a deeper understanding of YouTube songs' performance, popularity, and user engagement.
+In this analysis, I aim to uncover trends, preferences, and patterns in the data to aid content creators and stakeholders in optimizing their YouTube song content.
 
 [Dashboard]()
 
