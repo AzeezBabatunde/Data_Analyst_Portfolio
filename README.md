@@ -49,3 +49,31 @@ Power Bi Desktop was used to explore, analyze and visualize the dataset to provi
 
 ###                                     Income Statement Analysis Dashboard
 ![Income Statement Analysis Dashboard](https://github.com/AzeezBabatunde/Data_Analyst_Portfolio/assets/170113526/a32f935a-9954-4d33-b4a4-e7fcdfdddd40)
+
+
+
+## SQL Projects
+### 1. Hotel Reservation Analysis
+
+#### Project Overview
+
+The hotel industry relies on data analysis to make informed decisions and insight to provide a better guest experience. 
+In this project, I worked with a hotel reservation dataset to gain insights into guest preferences, booking trends, and other key factors that impact the hotel's operations. 
+I used SQL to query and analyze the data, as well as answer specific questions about the dataset. 
+
+### Data Source
+This link attached contains the raw data that was worked with
+[Hotel Reservation Dataset.csv](https://github.com/user-attachments/files/16119998/Hotel.Reservation.Dataset.csv)
+
+### File
+This link contains my PowerPoint presentation for this analysis
+[HOTEL RESERVATION ANALYSIS WITH SQL.pptx](https://github.com/user-attachments/files/16120014/HOTEL.RESERVATION.ANALYSIS.WITH.SQL.pptx)
+
+### Tools Used
+
+ SQL Query was used to preprocess, clean, explore, analyze and visualize the dataset to provide necesary insights with results displayed in the dashboard below.
+
+ ### Hotel Reservation Visuals
+ ![Hotel Reservation Visual 1](https://github.com/AzeezBabatunde/Data_Analyst_Portfolio/assets/170113526/1157390c-dba6-4ef0-ab32-cade347a9b05)    ![Hotel Reservation Visual 2](https://github.com/AzeezBabatunde/Data_Analyst_Portfolio/assets/170113526/9f2edd49-3c40-4421-9e56-e97ac9af5b07)
+
+
