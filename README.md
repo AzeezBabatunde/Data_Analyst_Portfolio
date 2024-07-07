@@ -71,7 +71,7 @@ This link contains my PowerPoint presentation for this analysis
 
 ### Tools Used
 
- SQL Query was used to preprocess, clean, explore, analyze and visualize the dataset to provide necesary insights with results displayed in the dashboard below.
+ SQL Query was used to preprocess, clean, explore, analyze and visualize the dataset to provide necesary insights with results of some visuals displayed below.
 
  ### Hotel Reservation Visuals
  ![Hotel Reservation Visual 1](https://github.com/AzeezBabatunde/Data_Analyst_Portfolio/assets/170113526/1157390c-dba6-4ef0-ab32-cade347a9b05)    ![Hotel Reservation Visual 2](https://github.com/AzeezBabatunde/Data_Analyst_Portfolio/assets/170113526/9f2edd49-3c40-4421-9e56-e97ac9af5b07)
