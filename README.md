@@ -12,9 +12,13 @@ The goal of this analysis is to utilize Power BI to create insightful visualizat
 In this analysis, I aim to uncover trends, preferences, and patterns in the data to aid content creators and stakeholders in optimizing their YouTube song content.
 
 ### Data Source
-This link below contains the raw data that was worked with
-
+This link attached contains the raw data that was worked with
 [songs.xlsx](https://github.com/user-attachments/files/16119813/songs.xlsx)
+
+### File
+This link contains my PowerPoint presentation for this analysis
+[YOUTUBE SONG VIDEOS ANALYSIS WITH POWER Bi by Azeez Babatunde Abiodun.pptx](https://github.com/user-attachments/files/16119863/YOUTUBE.SONG.VIDEOS.ANALYSIS.WITH.POWER.Bi.by.Azeez.Babatunde.Abiodun.pptx)
+
 
 ### Tools Used
 
