@@ -12,7 +12,15 @@ In this analysis, I uncovered trends, preferences, and patterns in the dataset t
 
 ### Data Source
 This link attached contains the raw data that was worked with
-[Road Accident Dataset]("C:\Users\HP\Downloads\Road accident data.xlsb")
+[Road Accident Dataset](https://github.com/AzeezBabatunde/Data_Analyst_Portfolio/blob/main/Excel%20Projects/Road%20accident%20data.xlsb)
+
+### Tools Used
+
+Microsoft Excel's keys and functions were used to preprocess and clean, explore, analyze and visualize the dataset to provide necesary insights with results displayed in the dashboard below.
+
+### Road Accident Analysis Dashboard
+![Road Accident Analysis Dashboard N](https://github.com/user-attachments/assets/faf070f5-d6d1-4535-9041-813e9aa0cc5c)
+
 
 ## Power Bi Projects
 ### 1. Youtube Song Analysis
