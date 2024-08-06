@@ -1,6 +1,18 @@
 # Data_Analyst_Portfolio
 
 This repository is dedicated towards showcasing my data science and analytics skills using the basic analyzing tools such as Excel, SQL, Python and Power Bi
+## Excel Project
+### Road Accident Analysis
+
+#### Project Overview
+
+Road accident is one of the major accident that claims lives and hospitalization of many people accross the continent, it can occur in trucks, cars, buses and bikes either by overspeeding or other factors.
+The goal of this analysis is to utilize Microsoft Excel's keys and functions to create insightful visualizations and reports that provide a deeper understanding from the analysis of road accident dataset to highlight several factors that can lead to road accident and ways to prevent them.
+In this analysis, I uncovered trends, preferences, and patterns in the dataset to aid the general public on causes and effects of road accidents and ways to best prevent them.
+
+### Data Source
+This link attached contains the raw data that was worked with
+[Road Accident Dataset]("C:\Users\HP\Downloads\Road accident data.xlsb")
 
 ## Power Bi Projects
 ### 1. Youtube Song Analysis
