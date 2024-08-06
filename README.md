@@ -6,8 +6,7 @@ This repository is dedicated towards showcasing my data science and analytics sk
 
 #### Project Overview
 
-Road accident is one of the major accident that claims lives and hospitalization of many people accross the continent, it can occur in trucks, cars, buses and bikes either by overspeeding or other factors.
-The goal of this analysis is to utilize Microsoft Excel's keys and functions to create insightful visualizations and reports that provide a deeper understanding from the analysis of road accident dataset to highlight several factors that can lead to road accident and ways to prevent them.
+Road accident is one of the major causes of death and hospitalization of many people across the continent, it can occur in trucks, cars, buses and bikes either by over speeding or other factors. The goal of this analysis is to utilize Microsoft Excel's keys and functions to create insightful visualizations and reports that provide a deeper understanding from the analysis of road accident dataset to highlight several factors that can lead to road accident and ways to prevent them.
 In this analysis, I uncovered trends, preferences, and patterns in the dataset to aid the general public on causes and effects of road accidents and ways to best prevent them.
 
 ### Data Source
